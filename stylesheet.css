@@ -22,3 +22,10 @@ p {
   a:hover {
     color: yellow;
   }
+
+  div {
+  width: 300px;
+  border: 15px solid lightsalmon;
+  padding: 50px;
+  margin: 20px;
+}
